@@ -2,6 +2,10 @@
 
 ### Além de encurtar e copiar links, o usuário também pode gerenciá-los na página "meus links", com dados armazenados no localStorage do próprio navegador. Algumas das tecnologias utilizadas neste projeto: useState e useEffect, Hooks, React Icons, React Router DOM e AXIOS.
 
+Documentação API Bitly: https://dev.bitly.com/
+Documentação React: https://pt-br.reactjs.org/
+Documentação Axios: https://axios-http.com/docs/intro
+
 ![img1](https://user-images.githubusercontent.com/59941082/153488030-22620a99-ca16-457e-b66b-bda460cc0830.png)
 
 ![img2](https://user-images.githubusercontent.com/59941082/153488079-e38b466b-a310-4b3d-bc7e-63eea53c0255.png)
