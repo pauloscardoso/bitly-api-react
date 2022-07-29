@@ -1,10 +1,10 @@
-## Aplicação para encurtamento de links, utilizando a Bitly API, desenvolvida durante a Semana React JS do Sujeito Programador, com Matheus Fraga.
+## Application for shortening links, using the Bitly API, developed during the React JS Week of the Programmer, with Matheus Fraga.
 
-### Além de encurtar e copiar links, o usuário também pode gerenciá-los na página "meus links", com dados armazenados no localStorage do próprio navegador. Algumas das tecnologias utilizadas neste projeto: useState e useEffect, Hooks, React Icons, React Router DOM e AXIOS.
+### In addition to shortening and copying links, the user can also manage them on the "my links" page, with data stored in the browser's own localStorage. Some of the technologies used in this project: useState and useEffect, Hooks, React Icons, React Router DOM and AXIOS.
 
-Documentação API Bitly: https://dev.bitly.com/
-Documentação React: https://pt-br.reactjs.org/
-Documentação Axios: https://axios-http.com/docs/intro
+Documentation API Bitly: https://dev.bitly.com/
+Documentation React: https://pt-br.reactjs.org/
+Documentation Axios: https://axios-http.com/docs/intro
 
 ![img1](https://user-images.githubusercontent.com/59941082/153488030-22620a99-ca16-457e-b66b-bda460cc0830.png)
 
