@@ -1,6 +1,6 @@
 ## Application for shortening links, using the Bitly API, developed during the React JS Week of the Programmer, with Matheus Fraga.
 
-### In addition to shortening and copying links, the user can also manage them on the "my links" page, with data stored in the browser's own localStorage. Some of the technologies used in this project: Componentizaiton, Hooks, React-Icons, Events, Routes and API with AXIOS.
+### In addition to shortening and copying links, the user can also manage them on the "my links" page, with data stored in the browser's own localStorage. Some of the technologies used in this project: Componentizaton, Hooks, React-Icons, Events, Routes and API with AXIOS.
 
 Documentation API Bitly: https://dev.bitly.com/
 Documentation React: https://pt-br.reactjs.org/
